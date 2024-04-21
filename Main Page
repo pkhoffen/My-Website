@@ -1,0 +1,40 @@
+git clone https://github.com/pkhoffen/My-Website.git
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+</head>
+<body>
+    <h1>Welcome to Paige's Dog Walking Services</h1>
+
+    <div>
+        <h2>About Us</h2>
+        <p>We are a local company that will walk your dogs.</p>
+    </div>
+
+    <div>
+        <h2>Services</h2>
+        <ul>
+            <li>Dog Walking</li>
+            <li>Dog Sitting - Stay with Sitter</li>
+            <li>Dog Sitting - Stay at Owner's Home</li>
+        </ul>
+    </div>
+
+    <div>
+        <h2>Contact Us</h2>
+        <p>Feel free to <a href="mailto:contact@example.com">contact us</a> for any inquiries.</p>
+    </div>
+
+    <div>
+        <h2>Our Team</h2>
+        <ul>
+            <li><img src="IMG_7639.JPG" alt="Team Member 1"></li>
+            <li><img src="IMG_6180.JPG" alt="Team Member 2"></li>
+        </ul>
+    </div>
+</body>
+</html>
+
